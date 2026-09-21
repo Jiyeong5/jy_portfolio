@@ -1,0 +1,6 @@
+{
+  "name": "Oh Jiyeong — Portfolio",
+  "description": "Minimalist portfolio website for Oh Jiyeong, researcher in Electronic AI Convergence and Multimodal AI, designed for GitHub and Vercel deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
